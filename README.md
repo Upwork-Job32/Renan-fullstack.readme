@@ -220,15 +220,7 @@
  </tr>
 </table>
 
-##
 
-<div align="center">
-
-![Project Demo](https://github.com/Upwork-Job32/Renan-fullstack.readme/blob/main/image/ancient.gif)
-
-</div>
-
-##
 
 ## Github stats 📊
 
