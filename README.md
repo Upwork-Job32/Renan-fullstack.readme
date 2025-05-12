@@ -1,6 +1,6 @@
 ## ⌛ To plan goal with thinking to live whole life, to live with thinking today is the last day of my life! ⌛
 
-## Senior Full Stack Developer & UX/UI Designer
+## Senior Full Stack Developer Mainly focused on OpenAI and Blockchain development
 
  <img src="https://github.com/Upwork-Job32/Renan-fullstack.readme/blob/main/image/ai.webp" />
 
