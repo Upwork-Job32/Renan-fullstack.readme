@@ -2,11 +2,11 @@
 
 ## Senior Full Stack Developer & UX/UI Designer
 
- <img src="https://github.com/sunstrike-spec/sunstrike-spec/blob/main/image/ai.webp" />
+ <img src="https://github.com/Upwork-Job32/Renan-fullstack.readme/blob/main/image/ai.webp" />
 
 ## GitHub Profile Trophy 🏆🏆🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sunstrike-spec&theme=darkhub&row=1&margin-w=40)](https://github.com/sunstrike-spec/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Upwork-Job32&theme=darkhub&row=1&margin-w=40)](https://github.com/Upwork-Job32/github-profile-trophy)
 
 <hr/>
 
@@ -77,22 +77,22 @@
 
 ##
 
-<img src="https://github.com/sunstrike-spec/sunstrike-spec/blob/main/image/design.webp" alt="design">
+<img src="https://github.com/Upwork-Job32/Renan-fullstack.readme/blob/main/image/design.webp" alt="design">
 
 >
 
 ## Achievements List [![](https://cdn3.iconfinder.com/data/icons/start-up-4/44/award-64.png?logo=vercel&logoColor=white)](#)[![](https://cdn3.iconfinder.com/data/icons/start-up-4/44/award-64.png?logo=vercel&logoColor=white)](#)[![](https://cdn3.iconfinder.com/data/icons/start-up-4/44/award-64.png?logo=vercel&logoColor=white)](#)
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://github.com/sunstrike-spec/Git-achievements/raw/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" alt="Quickdraw" width="60">
-    <img src="https://github.com/sunstrike-spec/Git-achievements/raw/main/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png" alt="Starstruck" width="60">
-    <img src="https://github.com/sunstrike-spec/Git-achievements/raw/main/Media/Badges/YOLO/PNG/YOLO_Badge.png" alt="YOLO" width="60">
-    <img src="https://github.com/sunstrike-spec/Git-achievements/raw/main/Media/Badges/Pull-Shark/PNG/PullShark.png" alt="Pull Shark" width="60">
-    <img src="https://github.com/sunstrike-spec/Git-achievements/raw/main/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire.png" alt="Pair Extraordinaire" width="60">
-    <img src="https://github.com/sunstrike-spec/Git-achievements/raw/main/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain.png" alt="Galaxy Brain" width="60">
-    <img src="https://github.com/sunstrike-spec/Git-achievements/raw/main/Media/Badges/GitHub-Sponsor/PNG/GitHubSponsorBadge.png" alt="Public Sponsor" width="60">
-    <img src="https://github.com/sunstrike-spec/Git-achievements/raw/main/Media/Badges/Heart-on-your-sleeve/PNG/HeartOnYourSleeve.png" alt="Heart On Your Sleeve" width="60">
-    <img src="https://github.com/sunstrike-spec/Git-achievements/raw/main/Media/Badges/Open-Sourcerer/PNG/OpenSourcerer.png" alt="Open Sourcerer" width="60">
+    <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Quick-Draw/PNG/Skin-Tones/QuickDraw_SkinTone1.png" alt="Quickdraw" width="60">
+    <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Star-Struck/PNG/Skin-Tones/StarStruck_SkinTone1.png" alt="Starstruck" width="60">
+    <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/YOLO/PNG/YOLO_Badge.png" alt="YOLO" width="60">
+    <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Pull-Shark/PNG/PullShark.png" alt="Pull Shark" width="60">
+    <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Pair-Extraordinaire/PNG/PairExtraordinaire.png" alt="Pair Extraordinaire" width="60">
+    <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Galaxy-Brain/PNG/GalaxyBrain.png" alt="Galaxy Brain" width="60">
+    <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/GitHub-Sponsor/PNG/GitHubSponsorBadge.png" alt="Public Sponsor" width="60">
+    <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Heart-on-your-sleeve/PNG/HeartOnYourSleeve.png" alt="Heart On Your Sleeve" width="60">
+    <img src="https://github.com/Upwork-Job32/Git-achievements/raw/main/Media/Badges/Open-Sourcerer/PNG/OpenSourcerer.png" alt="Open Sourcerer" width="60">
 </div>
 
 ## My favorite tools and technologies ⚙️
@@ -224,7 +224,7 @@
 
 <div align="center">
 
-![Project Demo](https://github.com/sunstrike-spec/sunstrike-spec/blob/main/image/ancient.gif)
+![Project Demo](https://github.com/Upwork-Job32/Renan-fullstack.readme/blob/main/image/ancient.gif)
 
 </div>
 
@@ -235,8 +235,8 @@
 <details>
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sunstrike-spec's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=sunstrike-spec&show_icons=true&count_private=true&theme=radical" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="sunstrike-spec's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunstrike-spec&langs_count=8&layout=compact&theme=radical" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Upwork-Job32's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Upwork-Job32&show_icons=true&count_private=true&theme=radical" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Upwork-Job32's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Upwork-Job32&langs_count=8&layout=compact&theme=radical" height="192px"/></a>
   <br/>
 </details>
 
@@ -244,14 +244,14 @@
   <summary>Activity Graph 📈</summary>
   <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sunstrike-spec&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Upwork-Job32&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
 
 <details>
   <summary>Profile Views 👁️</summary>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=sunstrike-spec&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+  <img src="https://komarev.com/ghpvc/?username=Upwork-Job32&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </details>
 
 ## My Role 🛰️
@@ -272,7 +272,7 @@
 
 <div align="center">
 
-![Skill](https://github.com/sunstrike-spec/sunstrike-spec/blob/main/image/skill.webp)
+![Skill](https://github.com/Upwork-Job32/Renan-fullstack.readme/blob/main/image/skill.webp)
 
 </div>
 
@@ -301,7 +301,7 @@
 
 #
 
-![Project Demo](https://github.com/sunstrike-spec/sunstrike-spec/blob/main/image/universe.webp)
+![Project Demo](https://github.com/Upwork-Job32/Renan-fullstack.readme/blob/main/image/universe.webp)
 
 </div>
 
